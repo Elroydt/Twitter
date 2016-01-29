@@ -1,0 +1,6 @@
+C:\PROJECTS\Test-App Dev\Twitter\TwitterApp\TwitterApp\bin\Debug\TwitterApp.exe.config
+C:\PROJECTS\Test-App Dev\Twitter\TwitterApp\TwitterApp\bin\Debug\TwitterApp.exe
+C:\PROJECTS\Test-App Dev\Twitter\TwitterApp\TwitterApp\bin\Debug\TwitterApp.pdb
+C:\PROJECTS\Test-App Dev\Twitter\TwitterApp\TwitterApp\obj\Debug\TwitterApp.csprojResolveAssemblyReference.cache
+C:\PROJECTS\Test-App Dev\Twitter\TwitterApp\TwitterApp\obj\Debug\TwitterApp.exe
+C:\PROJECTS\Test-App Dev\Twitter\TwitterApp\TwitterApp\obj\Debug\TwitterApp.pdb
